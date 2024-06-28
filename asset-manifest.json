@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lyrics-Finder-React-Project/static/css/main.43da295d.css",
+    "main.js": "/Lyrics-Finder-React-Project/static/js/main.e7bfc984.js",
+    "index.html": "/Lyrics-Finder-React-Project/index.html",
+    "main.43da295d.css.map": "/Lyrics-Finder-React-Project/static/css/main.43da295d.css.map",
+    "main.e7bfc984.js.map": "/Lyrics-Finder-React-Project/static/js/main.e7bfc984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43da295d.css",
+    "static/js/main.e7bfc984.js"
+  ]
+}
